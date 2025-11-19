@@ -16,11 +16,5 @@
         "key": "MEDI ",
         "expirydate": "30-12-9999",
         "Allowoffline": false
-    },
-    {
-        "device_id": "838fe3ceaf022c7d",
-        "key": "SILVERYT",
-        "expirydate": "30-12-9999",
-        "Allowoffline": false
     }
 ]
