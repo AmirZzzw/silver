@@ -10,5 +10,11 @@
         "key": "Dani",
         "expirydate": "",
         "Allowoffline": false
+    },
+    {
+        "device_id": "afe0d87e59329d02",
+        "key": "MEDI ",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
