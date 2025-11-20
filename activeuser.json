@@ -28,5 +28,11 @@
         "key": "TROL",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b5ec22acc74a5686",
+        "key": "MMD",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
