@@ -22,5 +22,11 @@
         "key": "dina",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e3a9c4345c1d66e4",
+        "key": "TROL",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
