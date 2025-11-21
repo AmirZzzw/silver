@@ -40,5 +40,11 @@
         "key": "bb79c45e7400bdfa",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bb79c45e7400bdfa",
+        "key": "saji",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
