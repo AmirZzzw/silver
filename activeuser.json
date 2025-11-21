@@ -64,5 +64,11 @@
         "key": "R4D1NM",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7477b34e0277af3",
+        "key": "R4D1NM",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
