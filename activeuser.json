@@ -46,5 +46,11 @@
         "key": "saji",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9bf49cfb9f2ca238",
+        "key": "solo",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
