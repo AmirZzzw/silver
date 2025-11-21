@@ -52,5 +52,11 @@
         "key": "solo",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f4a5fafe1d33195f",
+        "key": "asa",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
