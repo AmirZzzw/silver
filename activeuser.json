@@ -70,5 +70,11 @@
         "key": " DANIA",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b390d8659b8663e5",
+        "key": "2756",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
