@@ -82,5 +82,11 @@
         "key": "T4T_Amir",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b390d8659b8663e5",
+        "key": "YUO",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
