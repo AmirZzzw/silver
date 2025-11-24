@@ -88,5 +88,11 @@
         "key": "YUO",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6b748b179a7b54fe",
+        "key": "BEST",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
