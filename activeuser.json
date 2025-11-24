@@ -100,5 +100,11 @@
         "key": "mika",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0d43991a17eca80d",
+        "key": "mika",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
