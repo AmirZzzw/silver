@@ -112,5 +112,11 @@
         "key": "AST",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7f3b03c58d0e4bcf",
+        "key": "scoopy",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
