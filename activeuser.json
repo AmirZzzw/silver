@@ -112,5 +112,11 @@
         "key": "scoopy",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6991a845c9f1aa7b",
+        "key": "amiryt",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
