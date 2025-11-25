@@ -124,5 +124,11 @@
         "key": "AMIRVIP",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7477b34e02770af3",
+        "key": "unknown",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
