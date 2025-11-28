@@ -154,5 +154,11 @@
         "key": "onpo",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0e3d4ed4aeb35838",
+        "key": "silver",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
