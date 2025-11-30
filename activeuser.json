@@ -166,5 +166,11 @@
         "key": "ALIVIP",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3e2c1ccb8b0cab80",
+        "key": "TV",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
