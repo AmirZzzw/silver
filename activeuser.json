@@ -172,5 +172,11 @@
         "key": "TV",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "47276ff3c31a4054",
+        "key": "VMOD",
+        "expirydate": "30-12-9990",
+        "Allowoffline": false
     }
 ]
