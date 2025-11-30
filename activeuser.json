@@ -160,5 +160,11 @@
         "key": "silver",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "74271389ad2d95e7",
+        "key": "ALIVIP",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
