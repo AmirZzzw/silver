@@ -178,5 +178,11 @@
         "key": "VMOD",
         "expirydate": "30-12-9990",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ab90cb682a52c199",
+        "key": "BUT",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
