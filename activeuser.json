@@ -184,5 +184,11 @@
         "key": "BUT",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b6c44c5120ea58d4",
+        "key": "archer",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
