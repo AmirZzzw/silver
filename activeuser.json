@@ -114,12 +114,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "6991a845c9f1aa7b",
-        "key": "amiryt",
-        "expirydate": "30-12-9999",
-        "Allowoffline": false
-    },
-    {
         "device_id": "88c49427ea4a4ee9",
         "key": "AMIRVIP",
         "expirydate": "30-12-9999",
@@ -188,12 +182,6 @@
     {
         "device_id": "b6c44c5120ea58d4",
         "key": "archer",
-        "expirydate": "30-12-9999",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "20c7346679463de9",
-        "key": "amiryt",
         "expirydate": "30-12-9999",
         "Allowoffline": false
     }
