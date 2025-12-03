@@ -184,5 +184,11 @@
         "key": "archer",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "20c7346679463de9",
+        "key": "Aimrmo",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
