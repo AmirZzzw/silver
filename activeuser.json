@@ -220,5 +220,11 @@
         "key": "OMID",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "06cef8ba0355a22c",
+        "key": "Dani",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
