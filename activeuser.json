@@ -232,5 +232,11 @@
         "key": "Dani",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a9f58a3f9e1e926d",
+        "key": "mmdop",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
