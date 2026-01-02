@@ -238,5 +238,11 @@
         "key": "mmdop",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "fec9678c64c13d9c",
+        "key": "mmdvip",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
