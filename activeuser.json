@@ -268,5 +268,11 @@
         "key": "silvermmd",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8b539ae047676368",
+        "key": "silvermmd1",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
     }
 ]
