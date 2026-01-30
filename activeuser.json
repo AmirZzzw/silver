@@ -274,5 +274,11 @@
         "key": "silvermmd1",
         "expirydate": "31-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3b575c9258025801",
+        "key": "DEXTER",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
