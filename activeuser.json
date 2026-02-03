@@ -280,5 +280,11 @@
         "key": "ff",
         "expirydate": "31-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a37530e9344843b0",
+        "key": "RADIN",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
