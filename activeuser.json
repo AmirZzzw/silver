@@ -310,5 +310,11 @@
     "key": "Momad",
     "expirydate": "09-07-2053",
     "Allowoffline": false
+  },
+  {
+    "device_id": "e28948a20bd52d55",
+    "key": "رایدر",
+    "expirydate": "09-07-2053",
+    "Allowoffline": false
   }
 ]
