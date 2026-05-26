@@ -328,5 +328,11 @@
         "key": "mmdff",
         "expirydate": "30-12-9999",
         "Allowoffline": false
+    },
+    {
+        "device_id": "bd1017f73dfc0a88",
+        "key": "mmdff",
+        "expirydate": "30-12-9999",
+        "Allowoffline": false
     }
 ]
