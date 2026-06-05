@@ -205,12 +205,6 @@
   },
   {
     "device_id": "a45007d6c3b6197f",
-    "key": "mmdff",
-    "expirydate": "30-12-9999",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "a45007d6c3b6197f",
     "key": "mmd",
     "expirydate": "30-12-9999",
     "Allowoffline": false
@@ -321,18 +315,6 @@
     "device_id": "b55ee25c899d247b",
     "key": "ناشناس",
     "expirydate": "14-07-2053",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "bd1017f73dfc0a88",
-    "key": "mmdff",
-    "expirydate": "30-12-9999",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "bd1017f73dfc0a88",
-    "key": "mmdff",
-    "expirydate": "30-12-9999",
     "Allowoffline": false
   },
   {
