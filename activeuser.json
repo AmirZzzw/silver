@@ -328,5 +328,11 @@
     "key": "TestSidka1",
     "expirydate": "01-07-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "bd1017f73dfc0a88",
+    "key": "bd1017f73dfc0a88",
+    "expirydate": "05-07-2026",
+    "Allowoffline": false
   }
 ]
