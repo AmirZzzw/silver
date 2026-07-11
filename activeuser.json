@@ -352,5 +352,11 @@
     "key": "MORNING",
     "expirydate": "09-08-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "2cc1a7bf9e02c656",
+    "key": "mikaking",
+    "expirydate": "10-08-2026",
+    "Allowoffline": false
   }
 ]
