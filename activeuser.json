@@ -358,5 +358,11 @@
     "key": "mikaking",
     "expirydate": "10-08-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d205d337e2c240be",
+    "key": "MEGAN",
+    "expirydate": "05-04-2029",
+    "Allowoffline": false
   }
 ]
