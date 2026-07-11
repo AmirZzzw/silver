@@ -364,5 +364,11 @@
     "key": "MEGAN",
     "expirydate": "05-04-2029",
     "Allowoffline": false
+  },
+  {
+    "device_id": "95eac352c17d5151",
+    "key": "Mmdgy",
+    "expirydate": "11-08-2026",
+    "Allowoffline": false
   }
 ]
