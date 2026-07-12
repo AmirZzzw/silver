@@ -418,5 +418,11 @@
     "key": "Xxnx",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "50ec5a8e25d6f279",
+    "key": "Bnyamin1385",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
