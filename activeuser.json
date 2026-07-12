@@ -406,5 +406,11 @@
     "key": "SUBZERO",
     "expirydate": "19-07-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "c6106d406bd94532",
+    "key": "Amir_end",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
