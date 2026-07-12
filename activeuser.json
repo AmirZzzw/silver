@@ -400,5 +400,11 @@
     "key": "MTAL",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "f54c287ba109d7da",
+    "key": "SUBZERO",
+    "expirydate": "19-07-2026",
+    "Allowoffline": false
   }
 ]
