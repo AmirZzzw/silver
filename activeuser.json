@@ -382,5 +382,11 @@
     "key": "2cc1a7bf9e02c656",
     "expirydate": "11-08-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b62d4e003a24b3ad",
+    "key": "Aboli",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
