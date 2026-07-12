@@ -394,5 +394,11 @@
     "key": "Mmd5555",
     "expirydate": "11-08-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b8a632be88b63e31",
+    "key": "MTAL",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
