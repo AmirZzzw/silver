@@ -388,5 +388,11 @@
     "key": "Aboli",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "a8fad517ef68e051",
+    "key": "Mmd5555",
+    "expirydate": "11-08-2026",
+    "Allowoffline": false
   }
 ]
