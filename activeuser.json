@@ -424,5 +424,11 @@
     "key": "Bnyamin1385",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "c6f7b5ec7597cc76",
+    "key": "pesarak",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
