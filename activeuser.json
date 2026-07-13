@@ -448,5 +448,11 @@
     "key": "9df05524905338f2",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "9df05524905338f2",
+    "key": "Vonix.6",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
