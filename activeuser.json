@@ -324,27 +324,9 @@
     "Allowoffline": false
   },
   {
-    "device_id": "TestSidka1",
-    "key": "TestSidka1",
-    "expirydate": "01-07-2026",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "bd1017f73dfc0a88",
-    "key": "bd1017f73dfc0a88",
-    "expirydate": "05-07-2026",
-    "Allowoffline": false
-  },
-  {
     "device_id": "886b8faa272b62f3",
     "key": "ali",
     "expirydate": "09-11-2053",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "2b52a08fb045b928",
-    "key": "2b52a08fb045b928",
-    "expirydate": "27-06-2026",
     "Allowoffline": false
   },
   {
