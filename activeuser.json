@@ -436,5 +436,11 @@
     "key": "Imkonii",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "2cdb3e16e955f655",
+    "key": "Adbi",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
