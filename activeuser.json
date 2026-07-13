@@ -424,5 +424,11 @@
     "key": "Mmdff",
     "expirydate": "11-08-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d44e949c3d64c7c9",
+    "key": "HOSTEL",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
