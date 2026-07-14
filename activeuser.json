@@ -508,5 +508,11 @@
     "key": "ADUI",
     "expirydate": "13-08-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d205d337e2c240be",
+    "key": "d205d337e2c240be",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
