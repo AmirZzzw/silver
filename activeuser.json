@@ -538,5 +538,11 @@
     "key": "SEPI",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "b04128fcc78d965a",
+    "key": "Zizavh",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
