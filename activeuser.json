@@ -502,5 +502,11 @@
     "key": "MMDFT",
     "expirydate": "13-08-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d205d337e2c240be",
+    "key": "ADUI",
+    "expirydate": "13-08-2026",
+    "Allowoffline": false
   }
 ]
