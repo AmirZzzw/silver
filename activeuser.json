@@ -490,5 +490,11 @@
     "key": "Gtaki",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "aac74a0eb4a48e0",
+    "key": "iQZed",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
