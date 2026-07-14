@@ -514,5 +514,11 @@
     "key": "d205d337e2c240be",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "d5639cc3042ce858",
+    "key": "Matin",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
