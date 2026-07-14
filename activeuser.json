@@ -532,5 +532,11 @@
     "key": "Hhvh",
     "expirydate": "13-08-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "f5c9a14538725daa",
+    "key": "SEPI",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
