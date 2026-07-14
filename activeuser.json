@@ -496,5 +496,11 @@
     "key": "iQZed",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "2cc1a7bf9e02c656",
+    "key": "MMDFT",
+    "expirydate": "13-08-2026",
+    "Allowoffline": false
   }
 ]
