@@ -568,5 +568,11 @@
     "key": "lamir",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "2b8504a8a6eb6d96",
+    "key": "BUYT",
+    "expirydate": "25-08-2026",
+    "Allowoffline": false
   }
 ]
