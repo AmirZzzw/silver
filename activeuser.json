@@ -562,5 +562,11 @@
     "key": "JIBO",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "3010de04c42b9bd1",
+    "key": "lamir",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
