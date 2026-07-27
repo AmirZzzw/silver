@@ -592,5 +592,11 @@
     "key": "mmdffyt",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "bbe20b403411a014",
+    "key": "امیرجنده",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
