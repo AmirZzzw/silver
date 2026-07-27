@@ -580,5 +580,11 @@
     "key": "ARTI",
     "expirydate": "28-07-2026",
     "Allowoffline": false
+  },
+  {
+    "device_id": "011c4021522d5536",
+    "key": "مهرسام",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
