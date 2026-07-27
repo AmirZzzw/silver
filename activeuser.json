@@ -586,5 +586,11 @@
     "key": "مهرسام",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "e278abc2fe38e9e5",
+    "key": "mmdffyt",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
