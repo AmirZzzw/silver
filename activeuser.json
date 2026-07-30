@@ -610,5 +610,11 @@
     "key": "شکور",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "0890b50bac9fe686",
+    "key": "زبیر",
+    "expirydate": "29-08-2026",
+    "Allowoffline": false
   }
 ]
