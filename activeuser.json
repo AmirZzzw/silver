@@ -604,5 +604,11 @@
     "key": "تست",
     "expirydate": "31-12-9999",
     "Allowoffline": false
+  },
+  {
+    "device_id": "9bfd69f67f55eb6b",
+    "key": "شکور",
+    "expirydate": "31-12-9999",
+    "Allowoffline": false
   }
 ]
